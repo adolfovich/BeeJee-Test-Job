@@ -19,7 +19,6 @@
         </div>
 
         <button type="submit" class="btn btn-primary mb-2">Сохранить</button>
-        <button class="btn btn-secondary mb-2" onClick="history.back();">Отменить</button>
       </form>
 
     </div>
